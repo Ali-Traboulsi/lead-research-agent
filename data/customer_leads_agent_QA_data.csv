@@ -1,0 +1,10 @@
+id,prompt_text,expected_response,phase,step
+1,"""Who is your target audience?""","""Our target audience is [demographic].""",Target Market,Audience
+2,"""What regions are you targeting?""","""We’re focusing on regions like [location].""",Target Market,Location
+3,"""What’s your ideal customer profile?""","""Our ideal customer profile includes [attributes].""",Target Market,Customer Profile
+4,"""Who are your primary competitors?""","""Our competitors include [names].""",Competitor Analysis,Competitors
+5,"""What unique value do they offer?""","""They offer unique value in areas like [strengths].""",Competitor Analysis,Value Proposition
+6,"""How do you plan to differentiate from competitors?""","""We plan to differentiate by [strategy].""",Competitor Analysis,Differentiation
+7,"""What resources do you have available?""","""Available resources include [budget, team, technology].""",Resource Planning,Resources
+8,"""What’s your estimated budget?""","""The estimated budget for this project is [amount].""",Resource Planning,Budget
+9,"""What’s your expected timeline?""","""We plan to achieve our goals by [timeline].""",Planning,Timeline

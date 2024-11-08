@@ -1,0 +1,38 @@
+[
+    {
+        "question": "\"Who is your target audience?\"",
+        "answer": "\"Our target audience is [demographic].\""
+    },
+    {
+        "question": "\"What regions are you targeting?\"",
+        "answer": "\"We\u2019re focusing on regions like [location].\""
+    },
+    {
+        "question": "\"What\u2019s your ideal customer profile?\"",
+        "answer": "\"Our ideal customer profile includes [attributes].\""
+    },
+    {
+        "question": "\"Who are your primary competitors?\"",
+        "answer": "\"Our competitors include [names].\""
+    },
+    {
+        "question": "\"What unique value do they offer?\"",
+        "answer": "\"They offer unique value in areas like [strengths].\""
+    },
+    {
+        "question": "\"How do you plan to differentiate from competitors?\"",
+        "answer": "\"We plan to differentiate by [strategy].\""
+    },
+    {
+        "question": "\"What resources do you have available?\"",
+        "answer": "\"Available resources include [budget, team, technology].\""
+    },
+    {
+        "question": "\"What\u2019s your estimated budget?\"",
+        "answer": "\"The estimated budget for this project is [amount].\""
+    },
+    {
+        "question": "\"What\u2019s your expected timeline?\"",
+        "answer": "\"We plan to achieve our goals by [timeline].\""
+    }
+]
