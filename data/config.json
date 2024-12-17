@@ -1,0 +1,7 @@
+{
+  "parameters": ["industry", "company_size", "decision_maker_role", "location"],
+  "industry_options": ["Technology", "Finance", "Healthcare", "Retail"],
+  "company_size_options": ["Small", "Medium", "Large"],
+  "role_options": ["CEO", "CTO", "CFO", "Manager"],
+  "location_options": ["New York", "San Francisco", "London", "Tokyo"]
+}
